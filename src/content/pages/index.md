@@ -8,12 +8,12 @@ cta:
   ctaText: "Learn More "
   ctaLink: /contact
 ---
-```
-<p align=”justify”> **3 Day Healin**g is an **Immersive Wellness Program** that combines **Yoga, Breathwork, Meditation, Physical Therapy, Aromatherapy and Alchemy** to help attendants reduce stress and anxiety as well as renew and explore their full potential in a safe and controlled environment.
+```html
+<p style="text-align: center;"> Healing is an *mmersive Wellness Program that combines Yoga, Breathwork, Meditation, Physical Therapy, Aromatherapy and Alchemy to help attendants reduce stress and anxiety as well as renew and explore their full potential in a safe and controlled environment.
 
-Our packages **include lodging**, **food** (we accomodate for all dietary restrictions) and **transportation** to and from the ceremony locations. Our main objective is to provide a controlled environment where you can renew and explore in deph. 
+Our packages include lodging, food (we accomodate for all dietary restrictions) and transportation to and from the ceremony locations. Our main objective is to provide a controlled environment where you can renew and explore in deph. 
 
-Our events are **choose your own adventure**, depending on the location we will mix the weekend's program activities with hikes, trails and local adventures. You can expect lots of outdoor adventures, fires and star gazing. 
+Our events are choose your own adventure, depending on the location we will mix the weekend's program activities with hikes, trails and local adventures. You can expect lots of outdoor adventures, fires and star gazing. </p>
 
-We can't wait to hear your story and to help you trascend in your spiritual journey.</P>
+We can't wait to hear your story and to help you trascend in your spiritual journey.
 ```
