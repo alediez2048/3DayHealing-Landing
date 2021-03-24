@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: 3 Day Healing
 tagline: A Celebration of Life
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/screen-shot-2021-03-18-at-5.00.00-pm.png
 cta:
   ctaText: "Learn More "
   ctaLink: /contact
