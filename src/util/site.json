@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "3 Day Healing",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
+    "description": "3 Day Healing is an Immersive Wellness Program that combines Yoga, Breathwork, Meditation, Physical Therapy, Aromatherapy, Reiki and Alchemy to help attendants reduce stress and anxiety as well as renew and explore their full potential in a safe environment.",
+    "siteUrl": "https://3dayhealing.com",
+    "image": "/assets/3-day-healing-1-.png",
+    "iconimage": "/assets/3-day-healing-1-.png",
     "twitterUsername": "@stackrole"
   },
   "ga": "UA-XXXXXXXXX-X"
