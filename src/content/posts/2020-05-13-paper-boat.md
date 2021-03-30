@@ -1,9 +1,9 @@
 ---
 template: blog-post
-title: Character design
-slug: /character-design
+title: How Are Our Programs Structured?
+slug: /How-Are-Our-Programs-Structured
 date: 2020-05-23 23:40
-description: How to draw a character
+description: How Are Our Programs Structured?
 featuredImage: /assets/andrew-seaman-4fi_4q6_efm-unsplash.jpg
 ---
 In visual arts, a model sheet, also known as a character board, character sheet, character study or simply a study, is a document used to help standardize the appearance, poses, and gestures of a character in arts such as animation, comics, and video games.
