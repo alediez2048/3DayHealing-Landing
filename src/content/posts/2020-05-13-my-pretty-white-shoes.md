@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: How to Accelerate your Spiritual Journey
+title: How to Accelerate your Spiritual Journey?
 slug: /How-to-Accelerate-your-Spiritual-Journey
 date: 2020-05-13 12:55
 description: How to Accelerate your Spiritual Journey
