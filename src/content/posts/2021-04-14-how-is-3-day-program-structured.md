@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: "How is 3 Day Program Structured? "
+title: "How is 3 Day Healing Structured? "
 slug: structure
 date: 2021-04-14 16:10
 description: structure
