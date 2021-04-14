@@ -1,13 +1,11 @@
 ---
 template: about-page
 slug: /about
-title: About Foundation
+title: About 3 Day Healing
 ---
-Thank you! Now say "nuclear wessels"! No! Don't jump! A sexy mistake. Anyone who laughs is a communist!
+3 Day Healing started in the middle of the pandemic as a small group of healers realized there was no better time to accelerate your spiritual process than now. As we reached
 
-A true inspiration for the children. And when we woke up, we had these bodies. Moving along… Do a flip! Michelle, I don't regret this, but I bth rue and lament it.
-
-![Toys](/assets/vanessa-bucceri-gdirwiyama8-unsplash.jpg "Toys")
+![Toys](/assets/img_0769.jpg "Toys")
 
 Nay, I respect and admire Harold Zoid too much to beat him to death with his own Oscar. Well, then good news! It's a suppository. Then we'll go with that data file! **I've been there.** *My folks were always on me to groom myself and wear underpants.* What am I, the pope?
 
