@@ -10,4 +10,4 @@ Can you put a price on mental health? After all reducing stress and anxiety in y
 
 We like to emphasize that this program is an investment in yourself, and like all investments it takes resources to pull through. 
 
-Our packages depending on accomodations and the specific destination of the event range from 750$ - 1500$. These packages include transportation from and to the location, food and beverages, off site activites and  lastly lodging.
+Our packages depending on accomodations and the specific destination of the event range from **750$ - 1500$**. These packages include transportation from and to the location, food and beverages, off site activites and  lastly lodging.
