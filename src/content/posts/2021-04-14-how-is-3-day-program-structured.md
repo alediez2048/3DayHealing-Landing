@@ -4,7 +4,7 @@ title: "How is 3 Day Program Structured? "
 slug: structure
 date: 2021-04-14 16:10
 description: structure
-featuredImage: /assets/img_3428-2.jpg
+featuredImage: /assets/screen-shot-2021-04-14-at-4.23.39-pm.png
 ---
 Each retreat is a deeply transformative journey, which incorporates a blend of traditional and non-traditional healing modalities all designed to return you back home to your true Self.
 
