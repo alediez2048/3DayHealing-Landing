@@ -39,7 +39,7 @@ export default {
     },
     button: {
       bg: 'buttonAccent',
-      color: 'accent'
+      color: 'f6a970'
     }
   }
 }
