@@ -2,6 +2,7 @@ export default {
   colors: {
     text: '#000',
     background: '#fff',
+    blank: '#fff',
     primary: '#5C2941',
     accent: '#fff',
     muted: 'rgba(0, 0, 0, 0.7)',
@@ -16,6 +17,7 @@ export default {
       dark: {
         text: '#f5f5f5',
         background: '#111',
+        blank: '#fff',
         primary: '#252525',
         accent: '#5C2941',
         muted: 'rgba(255, 255, 255, 0.7)',
@@ -32,6 +34,12 @@ export default {
   },
   links: {
     postLink: {
+      color: 'muted',
+      '&:hover': {
+        color: 'text'
+      }
+    },
+    packageLink: {
       color: 'muted',
       '&:hover': {
         color: 'text'

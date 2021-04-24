@@ -15,7 +15,7 @@
   justify-content: space-between;
   align-items: center;
   position: relative;
-  padding: 30px 20px;
+  padding: 2px 20px;
 }
 .site-navigation {
   ul {
@@ -142,13 +142,13 @@
 		margin-top: 40px;
 	}
 }
-.home-posts {
+.home-posts, .home-packages  {
 	.grids {
 		padding-bottom: 30px;
 	}
 	padding-bottom: 100px;
 }
-.post-card {
+.post-card, .package-card{
 	padding: 16px;
 	border: 1px solid rgba(0,0,0,0.08);
 	background-color:#fff;
@@ -182,12 +182,12 @@
 		font-size: 12px;
 		// color: rgba(0,0,0,0.5);
 	}
-	.post-content {
+	.post-content, .package-content {
 		margin-top: 16px;
 	}
 	@media (max-width: $breakpoint-md) {
 		padding: 0;
-		.post-content {
+		.post-content, .package-content {
 			padding: 16px;
 			margin-top: 0;
 		}
@@ -217,6 +217,9 @@
   .post-card .featured-image {
     min-height: 300px;
   }
+  .package-card .featured-image {
+    min-height: 300px;
+  }
 }
 article figure {
 	margin: 40px 0;
@@ -239,7 +242,7 @@ article iframe {
 article img {
 	max-width: 100%;
 }
-.blog-post-content {
+.blog-post-content, .blog-package-content {
 	max-width: 70ch;
 	margin:0 auto;
 	padding: 20px;
@@ -247,7 +250,7 @@ article img {
 	font-size: 20px;
 }
 
-.blog-post {
+.blog-post, .blog-package {
 	.featured-image {
 		border-radius: 12px;
 		display: block;
@@ -413,6 +416,35 @@ article img {
 			line-height: 1.3;
 		}
 	}
+	&.-package {
+		text-align: inherit;
+		padding: 20px 0;
+		border-top: 1px solid rgba(0,0,0,0.1);
+		margin: 50px 0 0;
+		ul {
+			display: flex;
+			justify-content: space-between;
+		}
+		li:nth-child(1) {
+			text-align: left;
+		}
+		li:nth-child(2) {
+			text-align: right;
+		}
+		p {
+			font-size: 14px;
+			margin: 0 0 5px;
+			color: #3c3539;
+		}
+		a {
+			font-weight: normal;
+			font-size: 16px;
+			padding: 0;
+		}
+		.page-title {
+			line-height: 1.3;
+		}
+	}
 	@media (max-width: $breakpoint-md) {
 		padding: 50px 0
 		ul {
@@ -420,6 +452,18 @@ article img {
 			justify-content: space-between;
 		}
 		&.-post ul {
+			display: grid;
+			justify-content: normal;
+			a {
+				padding: 20px;
+				border: 1px solid rgba(0,0,0,0.1);
+				display: block;
+				margin-bottom: 10px;
+				border: 1px solid #3c3539;
+				border-radius: 8px;
+			}
+		}
+		&.-package ul {
 			display: grid;
 			justify-content: normal;
 			a {

@@ -6,14 +6,14 @@ import { RiArrowDownLine, RiArrowRightSLine } from "react-icons/ri"
 import PostCard from "./post-card"
 
 const PostMaker = ({ data }) => (
-  <section className="home-posts">
-    <h2><strong>Blog</strong> <span class="icon -right"><RiArrowDownLine/></span></h2>
+  <section className="home-packages">
+    <h2><strong>Packages</strong> <span class="icon -right"><RiArrowDownLine/></span></h2>
     <div className="grids col-1 sm-2 lg-3">
       {data}
     </div>
     <Link 
       className="button" 
-      to="/blog"
+      to="/package"
       sx={{
         variant: 'links.button'
       }}
@@ -23,14 +23,14 @@ const PostMaker = ({ data }) => (
   </section>
 )
 
-export default function BlogListHome() {
+export default function PackageListHome() {
   return (
     <StaticQuery 
       query={graphql`
         query {
           allMarkdownRemark(
             sort: { order: DESC, fields: [frontmatter___date] }
-            filter: { frontmatter: { template: { eq: "blog-post" } } }
+            filter: { frontmatter: { template: { eq: "blog-package" } } }
             limit: 6
           ) {
             edges {
@@ -57,12 +57,12 @@ export default function BlogListHome() {
       }
 
       render={ data => {
-          const posts = data.allMarkdownRemark.edges
+          const packages = data.allMarkdownRemark.edges
             .filter(edge => !!edge.node.frontmatter.date)
             .map(edge =>
               <PostCard key={edge.node.id} data={edge.node} />
           )
-          return <PostMaker data={posts} />
+          return <PostMaker data={packages} />
         } 
       }
     />

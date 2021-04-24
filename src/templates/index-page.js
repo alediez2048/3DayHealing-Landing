@@ -8,6 +8,7 @@ import { FaWordpress, FaVk} from "react-icons/fa";
 
 import Layout from "../components/layout"
 import BlogListHome from "../components/blog-list-home"
+import PackageListHome from "../components/package-list-home"
 import SEO from "../components/seo"
 import Icons from "../util/socialmedia.json"
 
@@ -102,6 +103,7 @@ const HomePage = ({ data }) => {
           ) : ""}
         </div>
       </div>
+      <PackageListHome/>
       <BlogListHome/>
 		</Layout>
 	)
