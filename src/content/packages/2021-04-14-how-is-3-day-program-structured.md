@@ -1,6 +1,6 @@
 ---
 template: blog-package
-title: "Sudhodanna "
+title: Sudhodanna Package
 slug: sudhodanna
 date: 2021-04-14 16:10
 description: International Trips
