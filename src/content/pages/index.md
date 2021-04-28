@@ -1,8 +1,8 @@
 ---
 template: index-page
 slug: /
-title: " Day Healing"
-tagline: A Celebration of Life
+title: " 3 Day Healing"
+tagline: The Spiritual Adventure of a Lifetime
 featuredImage: /assets/screen-shot-2021-03-18-at-5.00.00-pm.png
 cta:
   ctaText: "Learn More "
