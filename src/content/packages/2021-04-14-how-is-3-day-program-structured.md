@@ -4,8 +4,12 @@ title: International Package
 slug: international-trips
 date: 2021-04-14 16:10
 description: International Trips
-featuredImage: /assets/screen-shot-2021-04-14-at-4.23.39-pm.png
+featuredImage: /assets/screen-shot-2021-03-18-at-4.59.41-pm.png
 ---
-Our packages include **lodging**, **food** and **transportation as well 24/7 support from our certified facilitators**. Lodging comes in two forms, **private bedrooms and shared bedrooms**, you will be provided with **fresh towels, mats and bathroom essentials**. The **menu is primarily Vegan**, but we can accommodate for dietary restrictions or special requests. Transportation is **provided to and from the airport** of the location of the ceremony. 
+All our packages include **lodging**, **food** and **transportation as well 24/7 support from our certified facilitators**. 
+
+Lodging comes in two forms, **private bedrooms and shared bedrooms**, you will be provided with **fresh towels, mats and bathroom essentials**. 
+
+The **menu is primarily Vegan**, but we can accommodate for dietary restrictions or special requests. Transportation is **provided to and from the airport** of the location of the ceremony. 
 
 Our events are **choose your own adventure**, depending on the location we will mix the weekend's program activities with **hikes, trails and local adventures**. You can expect lots of outdoor adventures, fires and star gazing.
