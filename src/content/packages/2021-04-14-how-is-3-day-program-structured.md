@@ -1,7 +1,7 @@
 ---
 template: blog-package
 title: International Package
-slug: international-trips
+slug: Wim Hoff Package
 date: 2021-04-14 16:10
 description: International Trips
 featuredImage: /assets/screen-shot-2021-03-18-at-4.59.41-pm.png
