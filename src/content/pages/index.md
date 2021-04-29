@@ -8,4 +8,4 @@ cta:
   ctaText: "Learn More "
   ctaLink: /contact
 ---
-**3 Day Healing** is an **Immersive Wellness Program** that combines **Yoga, Breathwork, Meditation, Physical Therapy, Aromatherapy, Reiki and Alchemy** to help attendants reduce stress and anxiety as well as renew and explore their inner world in a safe and controlled environment.
+At 3 Day Healing, our mission is to provide attendants with a transformative spiritual experience through an Immersive Wellness Program that combines Yoga, Breathwork, Meditation, Aromatherapy, and Alchemy over a 3 day period in a remote quiet location.
