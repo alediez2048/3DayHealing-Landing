@@ -1,6 +1,6 @@
 ---
 template: blog-package
-title: Sundara
+title: Sundara Package
 slug: sundara
 date: 2021-04-14 16:25
 description: How Much does 3 Day Healing Cost?
