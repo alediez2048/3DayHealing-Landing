@@ -1,10 +1,10 @@
 ---
 template: blog-package
-title: How Much does 3 Day Healing Cost?
-slug: how-much-does-3-day-healing-cost
+title: Sundara
+slug: sundara
 date: 2021-04-14 16:25
 description: How Much does 3 Day Healing Cost?
-featuredImage: /assets/cd2eb95d-4450-45d0-8078-15b2b41f9d67.jpg
+featuredImage: /assets/screen-shot-2021-03-18-at-5.00.09-pm.png
 ---
 Can you put a price on mental health? After all reducing stress and anxiety in your everyday life is extremely important for maintaining your overall health, as amongst other things it can improve your mood, boost immune function, promote longevity, reduce weight gain and allow you to be more productive. 
 
