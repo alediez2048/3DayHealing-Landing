@@ -28,3 +28,7 @@ For the Buffah Package you can expect a combination of the following activities
 * Connecting with nature and Mother Earth
 * Native American Releasing Ceremony
 * Heartmath Intelligent Energy Management Techniques
+
+
+
+The cost of the Buddah package starts at 1000$
