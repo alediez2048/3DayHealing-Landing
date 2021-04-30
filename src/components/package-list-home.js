@@ -3,11 +3,11 @@ import { jsx } from 'theme-ui'
 import { Link, StaticQuery, graphql } from "gatsby"
 import { RiArrowDownLine, RiArrowRightSLine } from "react-icons/ri"
 
-import PostCard from "./post-card"
+import PackageCard from "./package-card"
 
 const PostMaker = ({ data }) => (
   <section className="home-packages">
-    <h2><strong>Packages</strong> <span class="icon -right"><RiArrowDownLine/></span></h2>
+    <h2><strong>Packages</strong> <span className="icon -right"><RiArrowDownLine/></span></h2>
     <div className="grids col-1 sm-2 lg-3">
       {data}
     </div>
@@ -18,7 +18,7 @@ const PostMaker = ({ data }) => (
         variant: 'links.button'
       }}
     >
-      See more<span class="icon -right"><RiArrowRightSLine/></span>
+      See more<span className="icon -right"><RiArrowRightSLine/></span>
     </Link>
   </section>
 )
@@ -60,7 +60,7 @@ export default function PackageListHome() {
           const packages = data.allMarkdownRemark.edges
             .filter(edge => !!edge.node.frontmatter.date)
             .map(edge =>
-              <PostCard key={edge.node.id} data={edge.node} />
+              <PackageCard key={edge.node.id} data={edge.node} />
           )
           return <PostMaker data={packages} />
         } 

@@ -3,7 +3,8 @@ import { jsx } from 'theme-ui'
 import { Link } from "gatsby"
 import Img from "gatsby-image"
 
-const PackageCard = ({ data }) => (
+const PackageCard = ({ data }) => {
+  return (
   <article 
     className="package-card"
     sx={{
@@ -12,7 +13,7 @@ const PackageCard = ({ data }) => (
   >
     {data.frontmatter.featuredImage ? 
       (
-        <Link to={data.frontmatter.slug}>
+        <Link to={'/package/' +data.frontmatter.slug}>
           <Img 
             fluid={data.frontmatter.featuredImage.childImageSharp.fluid} 
             objectFit="cover"
@@ -23,10 +24,10 @@ const PackageCard = ({ data }) => (
         </Link>
       ) : ""
     }
-    <div class="package-content">
+    <div className="package-content">
       <h2 className="title">
         <Link 
-          to={data.frontmatter.slug}
+          to={'/package/' + data.frontmatter.slug}
           sx={{
             variant: 'links.packageLink'
           }}
@@ -44,6 +45,6 @@ const PackageCard = ({ data }) => (
       </p>
     </div>
   </article>
-)
+)}
 
 export default PackageCard
