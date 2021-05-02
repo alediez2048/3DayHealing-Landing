@@ -16,8 +16,6 @@ As soon as you arrive to the destination you will be assigned a room depending o
 
 **Breakfast, Lunch and Dinner are provided by us,** our team will take care of all cooking and cleaning at the event. **The food for the entire weekend is Vegan,** meaning we wont cook any food derived from animals or animal products. **If you have specific dietary restrictions we will accomodate separately.**
 
-For the Buffah Package you can expect a combination of the following activities
-
 * **Primordial Sound Meditation** (Mantra based from the Chopra Center)
 * **Gentle Restorative & Flow Yoga asana** – heart centered approach of moving your body with intention
 * **Inner Child Work** – Healing and connecting with your feelings as the *inner child*
@@ -25,15 +23,10 @@ For the Buffah Package you can expect a combination of the following activities
 * **Pranayama** breathing exercises and energy work
 * Connecting with nature and **Mother Earth**
 * **Native American Releasing** Ceremony
-
-  **Personalized Aromatherapy**
-
-  **Personalized Physical Therapy** 
-
-  **Personalized Reiki**
-
-  **Rappe, Copal and Sage Cleansing**
-
-  **Plant Medicine Microdosing**
+* Personalized Aromatherapy
+* Personalized Physical Therapy
+* Personalized Reiki
+* Rappe, Copal and Sage Cleaning
+* **Plant medicine Micro-dosing**
 
 The cost of the **Sundara** package starts at **1500$.**
