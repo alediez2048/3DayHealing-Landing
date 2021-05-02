@@ -34,6 +34,4 @@ For the Buffah Package you can expect a combination of the following activities
 
   **Rappe and Ayahuasca Microdosing**
 
-
-
-The cost of the **Sudhodanna** package starts at **1500$.**
+The cost of the **Sundara** package starts at **1500$.**
