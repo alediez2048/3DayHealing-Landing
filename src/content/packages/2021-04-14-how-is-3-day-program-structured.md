@@ -18,8 +18,6 @@ As soon as you arrive to the destination you will be assigned a room depending o
 
 For the Buffah Package you can expect a combination of the following activities
 
-
-
 * **Primordial Sound Meditation** (Mantra based from the Chopra Center)
 * **Gentle Restorative & Flow Yoga asana** – heart centered approach of moving your body with intention
 * **Inner Child Work** – Healing and connecting with your feelings as the *inner child*
@@ -31,6 +29,4 @@ For the Buffah Package you can expect a combination of the following activities
 * Personalized Physical Therapy
 * Personalized Reiki
 
-
-
-The cost of the **Sudhodanna** package starts at **1500$.**
+The cost of the **Sudhodanna** package starts at **1250$.**
