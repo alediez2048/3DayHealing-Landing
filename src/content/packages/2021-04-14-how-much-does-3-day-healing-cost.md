@@ -32,6 +32,8 @@ For the Buffah Package you can expect a combination of the following activities
 
   **Personalized Reiki**
 
-  **Rappe and Ayahuasca Microdosing**
+  **Rappe, Copal and Sage Cleansing**
+
+  **Plant Medicine Microdosing**
 
 The cost of the **Sundara** package starts at **1500$.**
